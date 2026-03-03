@@ -71,7 +71,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
 | <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX Designer | Figma Master |
 | <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="24"/> | **Vibe:** Vibe Coding | Digital Marketing |
-| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 65+ and counting |
+| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 76 and counting |
 
 </div>
       </td>
@@ -386,7 +386,7 @@
 </details>
 
 <details>
-<summary><b>WEB DEVELOPMENT [ 15+ Projects ]</b></summary>
+<summary><b>WEB DEVELOPMENT [ 18 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
@@ -432,18 +432,7 @@
 
 </details>
 
-<details>
-<summary><b>PRIVATE REPOSITORIES [ 2 Projects ]</b></summary>
-<br/>
 
-| Project | Status | Category |
-|:--------|:-------|:---------|
-| **CAM AI** | <img src="https://img.shields.io/badge/PRIVATE-333333?style=flat-square"/> | Computer Vision |
-| **Insta Tool** | <img src="https://img.shields.io/badge/PRIVATE-333333?style=flat-square"/> | Automation |
-
-<p align="center"><i>These projects contain proprietary code and are not publicly available.</i></p>
-
-</details>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -523,7 +512,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nytrynox&label=PROFILE%20VIEWS&color=00fff5&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=karthik-idikuda&label=PROFILE%20VIEWS&color=00fff5&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=4000&pause=1000&color=00FFF5&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+that+matter;Made+with+precision+by+Karthik+Idikuda" alt="Footer"/>
 </div>
