@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+65%2B+PROJECTS+%7C+18+AI%2FML+SYSTEMS+%E2%96%B2;%E2%97%86+SELF-EVOLVING+AGENTS+%7C+COMPUTER+VISION+%E2%97%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+76%2B+PROJECTS+%7C+18+AI%2FML+SYSTEMS+%E2%96%B2;%E2%97%86+SELF-EVOLVING+AGENTS+%7C+COMPUTER+VISION+%E2%97%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -71,7 +71,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
 | <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX Designer | Figma Master |
 | <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="24"/> | **Vibe:** Vibe Coding | Digital Marketing |
-| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 65+ and counting |
+| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 76 and counting |
 
 </div>
       </td>
@@ -102,7 +102,7 @@
 
 <!-- Animated Stats Cards -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=65%2B+PROJECTS+ACROSS+6+CATEGORIES;18+AI%2FML+SYSTEMS+%7C+10+VISION+PROJECTS;15+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=76%2B+PROJECTS+ACROSS+6+CATEGORIES;18+AI%2FML+SYSTEMS+%7C+10+VISION+PROJECTS;15+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
 </div>
 
 <br/>
